@@ -25,10 +25,11 @@ A desktop application to track price changes of Amazon products over time.
 
 ## 📦 Installation
 
-To run this project, install the required packages by running the following command in your terminal:
+To run this project, install the required packages by running the following command in your terminal, then run main.py:
 
 ```bash
 pip install customtkinter matplotlib selenium fake-useragent undetected-chromedriver
+python main.py
 ```
 
 
