@@ -23,6 +23,15 @@ A desktop application to track price changes of Amazon products over time.
 ![Demo Screenshot](https://github.com/Rafin-25/Amazon-Price-History-Tracker/blob/main/demo-screenshots/screenshot%203.png)
 
 
+## 📦 Installation
+
+To run this project, install the required packages by running the following command in your terminal:
+
+```bash
+pip install customtkinter matplotlib selenium fake-useragent undetected-chromedriver
+```
+
+
 ### 🚀 Future Improvements:
 - Add support for multiple Amazon regions.
 - Background price monitoring and notifications.
