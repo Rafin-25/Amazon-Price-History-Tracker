@@ -19,6 +19,8 @@ A desktop application to track price changes of Amazon products over time.
 
 ### 📸 Screenshots:
 ![Demo Screenshot](https://github.com/Rafin-25/Amazon-Price-History-Tracker/blob/main/demo-screenshots/screenshot%201.png)
+![Demo Screenshot](https://github.com/Rafin-25/Amazon-Price-History-Tracker/blob/main/demo-screenshots/screenshot%202.png)
+![Demo Screenshot](https://github.com/Rafin-25/Amazon-Price-History-Tracker/blob/main/demo-screenshots/screenshot%203.png)
 
 
 ### 🚀 Future Improvements:
